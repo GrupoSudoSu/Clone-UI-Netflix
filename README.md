@@ -21,7 +21,7 @@ Nós utilizamos para a organização dos projetos a ferramenta Trello. Focamos n
 ## Autores
 
 <p align="center"> 
-  <a href="https://www.github.com/GrupoSudoSu" rel="Sudo-Su"><img src="img\sudosu-logo.png" width="300px" alt="SudoSu-logo"></a>
+  <a href="https://www.github.com/GrupoSudoSu" target="_blank" rel="Sudo-Su"><img src="img\sudosu-logo.png" width="300px" alt="SudoSu-logo"></a>
 </p>
 
   * [Kelvin](https://github.com/Kelvin-rnov/)
