@@ -12,7 +12,7 @@ Este Clone UI da Netflix foi feito com a finalidade de treinar as habilidades em
 </p>
 
 <p align="center"> 
-  <strong>Teste aqui: https://gruposudosu.github.io/Clone-UI-Netflix/</strong>
+  <strong target="_blank">Teste aqui: https://gruposudosu.github.io/Clone-UI-Netflix/</strong>
 </p>
   
 ## Organização de tarefas 🧑‍🤝‍🧑
