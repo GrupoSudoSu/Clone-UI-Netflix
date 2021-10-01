@@ -8,7 +8,7 @@ Este projeto foi proposto pelo Professor Átila Olivi que ensina na escola SENAI
 ## Vizualização da página
 
 <p align="center">
-  <img src="img\ExemploClone.jpeg" width="300px" title="hover text">
+  <img src="img\ExemploClone.jpeg" width="400px" title="hover text">
 </p>
 
 ## Organização de tarefas 🧑‍🤝‍🧑
